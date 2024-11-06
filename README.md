@@ -1,9 +1,9 @@
 # Facebook 后台事件上报
 
 ## 
-
+|参数|值|
 |-----------------|-----------------|
-| URL     | [接口路径](https://api.grtghcorp.com/event)     |
+| URL     | https://api.grtghcorp.com/event     |
 | Method        | POST      |
 | Content-Type        | application/json         |
 
