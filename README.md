@@ -25,6 +25,18 @@
 | 结账       | Purchase         | event_name、currency、value     |
 | 自定义事件       | test_event         | event_name     |
 
+## 响应参数
+
+### 服务器固定以 JSON 方式返回响应。
+
+|参数名|类型|参考值|描述|
+|-----------------|-----------------|-----------------|-----------------|
+| code     | int     | 0     |0 代表成功，其他代表失败    |
+| msg        | String      |success!|详细信息|
+| data        | object        |{}|返回数据|
+| fb_msg        | object        |[]|facebook 返回值|
+| fb_traceId        | String        |""|facebook 返回值 |
+
 ## 请求示例
 
 ### 有附加extra数据格式
