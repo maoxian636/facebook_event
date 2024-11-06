@@ -1,4 +1,4 @@
-# Facebook 后台事件上报
+# Facebook 服务器API事件上报
 
 ## 接口参数
 |参数|值|
