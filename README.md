@@ -1,9 +1,11 @@
-# Facebook 服务器API事件上报
+# Facebook 服务器API事件上报（测试版）
+### 该系统域名为测试域名，需要留一个修改口子
 
 ## 接口参数
+
 |参数|值|
 |-----------------|-----------------|
-| URL     | https://api.grtghcorp.com/event     |
+| URL     | https://api.grtghcorp.com/event  （测试域名）   |
 | Method        | POST      |
 | Content-Type        | application/json         |
 
