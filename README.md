@@ -25,7 +25,8 @@
 | 结账       | Purchase         | event_name、currency、value     |
 | 自定义事件       | test_event         | event_name     |
 
-##上报json格式
+##请求示例
+
 ###有附加extra数据格式
 ```
 {
@@ -37,6 +38,7 @@
   }
 }
 ```
+
 ###无附加extra数据格式
 ```
 {
@@ -44,3 +46,16 @@
   "event_name": "Purchase"
 }
 ```
+
+##返回示例
+```
+{
+  "code":0,
+  "msg":"success!",
+  "data":{
+      "fb_msg":[],
+      "fb_traceId":"AbOz36g-Do8BJw0PUZS53o2"
+        }
+}
+```
+
