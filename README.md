@@ -1,11 +1,12 @@
 # Facebook 服务器API事件上报（测试版）
 ### 该系统域名为测试域名，需要留一个修改口子
-
+## 流程 介绍
+https://github.com/maoxian636/facebook_event/blob/main/%E6%B5%81%E7%A8%8B.md
 ## 接口参数
 
 |参数|值|
 |-----------------|-----------------|
-| URL     | https://api.grtghcorp.com/event  （测试域名）   |
+| URL     | https://api.grtghcorp.com/event  （测试域名，channel_event_url 会通过地址拼接方式传递）   |
 | Method        | POST      |
 | Content-Type        | application/json         |
 
