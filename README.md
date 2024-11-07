@@ -1,5 +1,5 @@
 # Facebook 服务器API事件上报（测试版）
-### 该系统域名为测试域名，需要留一个修改口子
+### 该系统域名为测试域名,api接口地址会拼接到包网地址后面
 ## 流程 介绍
 https://github.com/maoxian636/facebook_event/blob/main/%E6%B5%81%E7%A8%8B.md
 ## 接口参数
