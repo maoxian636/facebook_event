@@ -2,6 +2,8 @@
 ### 该系统域名为测试域名,api接口地址会拼接到包网地址后面
 ## 流程 介绍
 https://github.com/maoxian636/facebook_event/blob/main/%E6%B5%81%E7%A8%8B.md
+## 事件测试成功文件（供参考）
+https://www.play.pjyql.com/vvv1
 ## 接口参数
 
 |参数|值|
